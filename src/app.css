@@ -1,7 +1,14 @@
 body {
     padding: 20px 60px;
+    width: auto;
+    overflow: scroll;
+    overflow-x: hidden;
+    
 }
 
+.App {
+    position: relative;
+}
 a {
     text-decoration: none;
     color: black;
